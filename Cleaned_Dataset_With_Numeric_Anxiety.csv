@@ -1,4 +1,4 @@
-anxiety_level,self_esteem,mental_health_history,depression,headache,blood_pressure,sleep_quality,breathing_problem,noise_level,living_conditions,safety,basic_needs,academic_performance,study_load,teacher_student_relationship,future_career_concerns,social_support,peer_pressure,extracurricular_activities,bullying,stress_level,Anxiety_level
+anxiety_level,self_esteem,mental_health_history,depression,headache,blood_pressure,sleep_quality,breathing_problem,noise_level,living_conditions,safety,basic_needs,academic_performance,study_load,teacher_student_relationship,future_career_concerns,social_support,peer_pressure,extracurricular_activities,bullying,stress_level,Anxiety_level1
 High,0.2,0,0.11,2,0.1,0.2,0.4,0.2,0.3,3,2,3,0.2,3,0.3,0.2,0.3,0.3,0.2,0.1,0.14
 High,0.08,1,0.15,5,0.3,0.1,0.4,0.3,0.1,2,2,1,0.4,1,0.5,0.1,0.4,0.5,0.5,0.2,0.15
 Medium,0.18,1,0.14,2,0.1,0.2,0.2,0.2,0.2,3,2,2,0.3,3,0.2,0.2,0.3,0.2,0.2,0.1,0.12
